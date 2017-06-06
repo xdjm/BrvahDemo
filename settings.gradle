@@ -1,1 +1,1 @@
-include ':section', ':mylibrary'
+include ':section', ':mylibrary', ':headerandfooter'
