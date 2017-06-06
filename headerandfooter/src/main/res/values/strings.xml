@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">headerandfooter</string>
+    <string name="removefooter">点击移除尾布局</string>
+    <string name="removeheader">点击移除头布局</string>
 </resources>
