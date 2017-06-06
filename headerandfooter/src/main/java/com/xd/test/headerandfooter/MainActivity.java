@@ -47,11 +47,11 @@ public class MainActivity extends AppCompatActivity {
         ButterKnife.bind(this);
 
         List<String> list = new ArrayList<>();
-        for(int i = 0;i<15;i++)
+        for(int i = 0;i<10;i++)
         {
             if(i==0)
                 list.add("添加头布局");
-            else if(i==14)
+            else if(i==9)
                 list.add("添加尾布局");
             else list.add(i+"");
         }
@@ -67,7 +67,7 @@ public class MainActivity extends AppCompatActivity {
             public void onItemClick(BaseQuickAdapter adapter, View view, int position) {
                 if(position==0)
                     baseViewHolderBaseQuickAdapter.addHeaderView(getHeaderView());
-                else if(position==14)
+                else if(position==9)
                     baseViewHolderBaseQuickAdapter.addFooterView(getFooterView(),0);
                 else Toast.makeText(MainActivity.this, position+"", Toast.LENGTH_SHORT).show();
             }
