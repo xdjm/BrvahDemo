@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BrvahDemo.iml" filepath="$PROJECT_DIR$/BrvahDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/headerandfooter/headerandfooter.iml" filepath="$PROJECT_DIR$/headerandfooter/headerandfooter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/loadmore/loadmore.iml" filepath="$PROJECT_DIR$/loadmore/loadmore.iml" />
       <module fileurl="file://$PROJECT_DIR$/mylibrary/mylibrary.iml" filepath="$PROJECT_DIR$/mylibrary/mylibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/section/section.iml" filepath="$PROJECT_DIR$/section/section.iml" />
     </modules>
