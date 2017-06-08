@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.xd.test.animandempty.MainActivity">
+    <item android:id="@+id/alpha" android:orderInCategory="100"
+        android:title="@string/alpha" app:showAsAction="never" />
+    <item android:id="@+id/scalein" android:orderInCategory="100"
+        android:title="@string/scale" app:showAsAction="never" />
+    <item android:id="@+id/slideinbottom" android:orderInCategory="100"
+        android:title="@string/slidebottom" app:showAsAction="never" />
+    <item android:id="@+id/slideinleft" android:orderInCategory="100"
+        android:title="@string/slideleft" app:showAsAction="never" />
+    <item android:id="@+id/slideinright" android:orderInCategory="100"
+        android:title="@string/slideright" app:showAsAction="never" />
+</menu>
