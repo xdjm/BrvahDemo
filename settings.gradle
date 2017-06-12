@@ -1,1 +1,1 @@
-include ':section', ':mylibrary', ':headerandfooter', ':loadmore'
+include ':section', ':mylibrary', ':headerandfooter', ':loadmore', ':animandempty', ':test'
